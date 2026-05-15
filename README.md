@@ -10,14 +10,14 @@ brew tap yemreak/tap
 
 ## Available
 
-### duti
+### openwith-cursor
 
 Open code and text files in Cursor.
 
 ```
-brew install duti
+brew install openwith-cursor
 ```
 
 Requires [Cursor](https://cursor.com).
 
-See [release notes](https://github.com/yemreak/homebrew-tap/releases?q=duti-).
+See [release notes](https://github.com/yemreak/homebrew-tap/releases?q=openwith-cursor-).
